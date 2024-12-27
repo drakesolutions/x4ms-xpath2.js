@@ -1,5 +1,5 @@
 {
-    "name": "xpath2.js",
+    "name": "x4ms-xpath2.js",
     "version": "1.0.0-alpha-6",
     "license": "MIT",
     "description": "DOM-agnostic implementation of XPath 2 parser and evaluator in JavaScript",
@@ -18,9 +18,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/ilinsky/xpath2.js.git"
+        "url": "https://github.com/drakesolutions/x4ms-xpath2.js.git"
     },
-    "homepage": "https://github.com/ilinsky/xpath2.js",
+    "homepage": "https://github.com/drakesolutions/x4ms-xpath2.js",
     "bugs": "https://github.com/ilinsky/xpath2.js/issues",
     "author": "Sergey Ilinsky <sergey@ilinsky.com> (http://www.ilinsky.com)",
     "scripts": {
@@ -35,16 +35,10 @@
     },
     "maintainers": [
         {
-            "name": "Sergey Ilinsky",
-            "email": "sergey@ilinsky.com",
-            "url": "http://www.ilinsky.com"
+            "name": "Ivan Turčan",
+            "email": "ivan.turcan@drake.sk"
         }
     ],
     "contributors": [
-        {
-            "name": "Rui Azevedo",
-            "email": "ruihfazevedo@gmail.com",
-            "url": "http://www.r-site.net/"
-        }
     ]
 }
