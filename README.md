@@ -18,7 +18,7 @@ Execution engine operates using XML Schema 1.1 data types as prescribed by speci
 ## Installation
 
 ```bash
-npm install xpath2.js
+npm install x4ms-xpath2.js
 ```
 
 ## Usage
